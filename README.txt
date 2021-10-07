@@ -1,1 +1,1 @@
-<img src="https://github.com/Retinpkumar/iNeuron-Assignments-ML-and-DL-Masters-/blob/main/ineuron-logo.png"/>
+<img src="https://account.ineuron.ai/static/images/ineuron-logo.png"/>
