@@ -1,1 +1,1 @@
-![image](https://account.ineuron.ai/static/images/ineuron-logo.png)
+![iNeuron Logo](/images/ineuron-logo.png)
