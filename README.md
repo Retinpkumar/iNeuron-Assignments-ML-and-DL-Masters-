@@ -4,7 +4,8 @@
 *<h3> Assignment submissions </h3>*
 
 This repo contains assignment submissions for the course "Machine Learning and Deep Learning Masters" by iNeuron. 
-Submissions include various topics like
+
+Submissions include contents from various topics like:
 1. Python programming basics
 
 2. Object oriented programming with Python
