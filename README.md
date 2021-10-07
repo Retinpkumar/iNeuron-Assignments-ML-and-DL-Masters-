@@ -15,10 +15,7 @@ Submissions include various topics like
 
 5. Data visualization using Matplotlib
 
-6. Inferential and Descriptive Statistics inlcuding
-  - Measures of central tendency and measures of dispersion
-  - Probability and probability distribution functions
-  - Hypothesis testing
+6. Inferential and Descriptive Statistics
 
 
 
