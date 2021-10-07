@@ -1,7 +1,26 @@
 ![iNeuron logo](https://github.com/Retinpkumar/iNeuron-Assignments-ML-and-DL-Masters-/blob/main/images/ineuron-logo.png)
-<h1> "Machine Learning and Deep Learning Masters" Assignments</h1>
+<h1> Machine Learning and Deep Learning Masters</h1>
+<h3> Assignment submissions </h3>
 
-This repo contains assignment submissions for the course "Machine Learning and Deep Learning Masters" by iNeuron.
+This repo contains assignment submissions for the course "Machine Learning and Deep Learning Masters" by iNeuron. 
+Submissions include various topics like
+1. Python programming basics
+
+2. Object oriented programming with Python
+
+3. Numerical operations using Numpy
+
+4. Data munging using Pandas
+
+5. Data visualization using Matplotlib
+
+6. Inferential and Descriptive Statistics inlcuding
+  - Measures of central tendency and measures of dispersion
+  - Probability and probability distribution functions
+  - Hypothesis testing
+
+
+
 
 - 📖 [Assignment 1](https://github.com/Retinpkumar/iNeuron-Assignments-ML-and-DL-Masters-/blob/main/Assignment%201.ipynb)
 - 📖 [Assignment 2](https://github.com/Retinpkumar/iNeuron-Assignments-ML-and-DL-Masters-/blob/main/Assignment-2.ipynb)
