@@ -1,6 +1,7 @@
 ![iNeuron logo](https://github.com/Retinpkumar/iNeuron-Assignments-ML-and-DL-Masters-/blob/main/images/ineuron-logo.png)
 <h1> Machine Learning and Deep Learning Masters</h1>
-<h3> Assignment submissions </h3>
+
+*<h3> Assignment submissions </h3>*
 
 This repo contains assignment submissions for the course "Machine Learning and Deep Learning Masters" by iNeuron. 
 Submissions include various topics like
@@ -21,6 +22,7 @@ Submissions include various topics like
 
 
 
+*<h3> Links to Assignment submissions </h4>*
 
 - 📖 [Assignment 1](https://github.com/Retinpkumar/iNeuron-Assignments-ML-and-DL-Masters-/blob/main/Assignment%201.ipynb)
 - 📖 [Assignment 2](https://github.com/Retinpkumar/iNeuron-Assignments-ML-and-DL-Masters-/blob/main/Assignment-2.ipynb)
