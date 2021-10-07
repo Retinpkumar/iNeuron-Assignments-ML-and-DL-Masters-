@@ -1,1 +1,1 @@
-This repository consists of assignment submissions for MACHINE LEARNING AND DEEP LEARNING MASTERS course by iNeuron.
+<img src="https://github.com/Retinpkumar/iNeuron-Assignments-ML-and-DL-Masters-/blob/main/ineuron-logo.png"/>
